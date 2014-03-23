@@ -19,7 +19,8 @@
     android:orientation="vertical"
     android:layout_width="fill_parent"
     android:layout_height="wrap_content"
-    android:padding="@dimen/standard_padding">
+    android:padding="@dimen/standard_padding"
+    android:background="?android:attr/activatedBackgroundIndicator">
 
   <TextView android:id="@+id/history_title"
             android:layout_width="fill_parent"
